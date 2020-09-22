@@ -5,4 +5,7 @@
 	4: 'xin chao'
 	5: 'xin chao'
 	6: 'xin chao'
+	7: 'xin chao'
+	8: 'xin chao'
+	9: 'xin chao'
 	10: 'xin chao'
