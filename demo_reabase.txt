@@ -1,2 +1,4 @@
 10 lan xin chao:
 	"xin chao"
+	2: 'xin chao'
+	10: 'xin chao'
